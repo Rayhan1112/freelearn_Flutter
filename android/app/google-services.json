@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "396558855754",
+    "firebase_url": "https://flutterfirst-bdcaf-default-rtdb.firebaseio.com",
+    "project_id": "flutterfirst-bdcaf",
+    "storage_bucket": "flutterfirst-bdcaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396558855754:android:8f90afc60d93ad9e6bc0b3",
+        "android_client_info": {
+          "package_name": "com.freelearn.freelearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396558855754-kblqagth05itrb19bgje8r6lb54gf7dv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.freelearn.freelearn",
+            "certificate_hash": "31f0196a4a7eab5e798ec05357de17d5fe8d6e7e"
+          }
+        },
+        {
+          "client_id": "396558855754-lisf73jtp1v11r8f861ndeut2amt75bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAauJ1lsHuZpouzF_5MPnUHjxQWoZ2ZTug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396558855754-lisf73jtp1v11r8f861ndeut2amt75bd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "396558855754-3m8otr1i1fmb0kbrf8dt3cg3jkbqha1b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.freelearn.freelearn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
